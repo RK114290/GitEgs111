@@ -1,3 +1,8 @@
-* b70dce9 (HEAD -> main, origin/main) Added merged login feature
-* 5e5cebc (feature-Mergedlogin) Create Hi
+*   9a4ba95 (HEAD -> main, origin/main) Merged FeatureBranchLogin with main
+|\  
+| * e769ebe (origin/feature-Mergedlogin, feature-Mergedlogin) Added merged login file
+* | 1f556b2 Deleted some files
+* | b70dce9 Added merged login feature
+|/  
+* 5e5cebc Create Hi
 * 3ad4694 (origin/feature-login, feature-login) Add login feature
